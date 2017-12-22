@@ -1,4 +1,7 @@
 ﻿# joyingsofia
+
+== This is a fork of Superdave's repository. The only change is an __untested__ install script under releases. Do NOT use unless you actually know what you are doing. ==
+
 Testing of a recovery partition mod for JY-UL135N2
 
 Changes: Added USB network adb support to the update script.  If USb network adapter is connected it's ip is set to 192.168.2.1.
